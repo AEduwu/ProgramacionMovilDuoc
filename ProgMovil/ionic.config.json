@@ -1,7 +1,0 @@
-{
-  "name": "ProgMovil",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
